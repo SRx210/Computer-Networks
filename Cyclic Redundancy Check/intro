@@ -1,31 +1,38 @@
-# Note!!
-The code provided consists of two functions for the receiver's side for error detection, i.e., Without Error and With Error.
-The With Error one consists of simulated codeword... In general, due to artifacts (such as noise), errors occur within the bits.
-So when executing the code, make sure to comment out either one of them.
+<h1>Note</h1>
+<p>The code provided consists of two functions for the receiver's side for error detection, i.e., Without Error and With Error.</p>
+<p>The With Error one consists of simulated codeword... In general, due to artifacts (such as noise), errors occur within the bits.</p>
+<p>So when executing the code, make sure to comment out either one of them.</p>
 
-# Cyclic Redundancy Check (CRC)
+<h1>Cyclic Redundancy Check (CRC)</h1>
+<p>Welcome to the <strong>Cyclic Redundancy Check (CRC)</strong> repository! This repository contains resources, notes, and code related to CRC, an essential error-detection technique used in networking and data integrity verification.</p>
 
-Welcome to the **Cyclic Redundancy Check (CRC)**, an essential error-detection technique used in networking and data integrity verification.
+<h2>📌 Topics Covered</h2>
+<h3>Introduction to CRC</h3>
+<ul>
+    <li>Definition and Purpose</li>
+    <li>Importance in Data Transmission</li>
+    <li>Comparison with Other Error Detection Methods</li>
+</ul>
 
-## 📌 Topics Covered
-### Introduction to CRC
-- Definition and Purpose
-- Importance in Data Transmission
-- Comparison with Other Error Detection Methods
+<h3>CRC Calculation Process</h3>
+<ul>
+    <li>Polynomial Representation</li>
+    <li>Binary Division Method</li>
+    <li>Checksum Generation</li>
+    <li>CRC Encoding & Decoding</li>
+</ul>
 
-### CRC Calculation Process
-- Polynomial Representation
-- Binary Division Method
-- Checksum Generation
-- CRC Encoding & Decoding
+<h3>Implementations of CRC</h3>
+<ul>
+    <li>Software Implementations (Python, C, Java)</li>
+    <li>Hardware Implementations</li>
+    <li>CRC Variants (CRC-8, CRC-16, CRC-32, CRC-64)</li>
+</ul>
 
-### Implementations of CRC
-- Software Implementations (Python, C, Java)
-- Hardware Implementations
-- CRC Variants (CRC-8, CRC-16, CRC-32, CRC-64)
-
-### Applications of CRC
-- Network Communication Protocols
-- File Integrity Verification
-- Data Storage Error Checking
-- Embedded Systems & IoT
+<h3>Applications of CRC</h3>
+<ul>
+    <li>Network Communication Protocols</li>
+    <li>File Integrity Verification</li>
+    <li>Data Storage Error Checking</li>
+    <li>Embedded Systems & IoT</li>
+</ul>
