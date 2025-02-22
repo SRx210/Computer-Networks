@@ -1,6 +1,7 @@
 # Note!!
 The code provided consists of two functions for the receiver's side for error detection, i. e. Without Error and With Error.
 The With Error one consists of simulated codeword... in general due to artifacts (such as noise) error occurs within the bits.
+So when executing the code, make sure comment out either one of them
 
 
 # Cyclic Redundancy Check (CRC)
