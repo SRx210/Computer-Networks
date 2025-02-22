@@ -1,1 +1,31 @@
+# Note!!
+The code provided consists of two functions for the receiver's side for error detection, i. e. Without Error and With Error.
+The With Error one consists of simulated codeword... in general due to artifacts (such as noise) error occurs within the bits.
 
+
+# Cyclic Redundancy Check (CRC)
+
+Welcome to the **Cyclic Redundancy Check (CRC)** repository! This repository contains resources, notes, and code related to CRC, an essential error-detection technique used in networking and data integrity verification.
+
+## Topics Covered
+### Introduction to CRC
+- Definition and Purpose
+- Importance in Data Transmission
+- Comparison with Other Error Detection Methods
+
+### CRC Calculation Process
+- Polynomial Representation
+- Binary Division Method
+- Checksum Generation
+- CRC Encoding & Decoding
+
+### Implementations of CRC
+- Software Implementations (Python, C, Java)
+- Hardware Implementations
+- CRC Variants (CRC-8, CRC-16, CRC-32, CRC-64)
+
+### Applications of CRC
+- Network Communication Protocols
+- File Integrity Verification
+- Data Storage Error Checking
+- Embedded Systems & IoT
