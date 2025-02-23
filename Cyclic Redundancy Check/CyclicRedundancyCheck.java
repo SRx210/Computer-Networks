@@ -23,6 +23,7 @@ public class CyclicRedundancyCheck
 		n = data.length();
 
 		old_data = new StringBuilder(data);
+		s.close();
 	}
 	
 	static StringBuilder RepeatZeroes()
